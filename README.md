@@ -1,4 +1,4 @@
-# academic_template_for_cityu_Macao
+# Academic_Template_for_CityU_Macao
 澳门城市大学所用学术汇报模板（基于Beamer）
 
 - 因为兼容中文，记得用XeLatex进行编译
