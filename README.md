@@ -6,5 +6,5 @@
 - 兼容澳门城市大学的绿色风格
 - 中文使用MiSans，在此感谢小米字体的奉献
 ----
-
+<img src="CityU-template/CityU-template__00.png" alt="Pulpit rock" width="800">
 
